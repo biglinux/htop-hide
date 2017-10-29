@@ -1,0 +1,11 @@
+Package: htop-hide
+Version: 1.0.0-1big1
+Depends: htop
+Architecture: all
+Maintainer: Bruno Goncalves <biglinux.com.br>
+Section: admin
+Priority: optional
+Installed-Size:28
+Description: Hide htop in menu
+
+
